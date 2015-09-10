@@ -1,0 +1,144 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 2, 2015, 10:50:39 PM
+    Author     : gamecore
+*/
+body{
+    
+    font-family: 'Abel', sans-serif;
+    font-size: 2em;
+    
+    
+}
+
+.img-tamaño{
+    
+   max-width: 800px;   
+width: 800px;
+
+}
+
+html {
+    background: url(404_10.jpg) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.fondo{
+    
+    background-image: url(img/fondo2.jpg); 
+}
+img{
+   max-width: 400px;   
+   -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+/*Esto es una clase en CSS esta clase es mia a diferencia de una etiqueta que solo es el nombre*/
+
+.quitar-float{
+    
+    float: none;
+}
+
+.espacio-arriba{
+    
+    margin-top: 100px;
+}
+
+.espacio-derecha{
+    
+    margin-right: 1em;
+}
+
+.espacio-abajo{
+    margin-bottom: 0.5em;
+    
+}
+.yanoke{
+    
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.grande{
+    
+    font-size: 4em;
+}
+
+.lobster{
+    
+    font-family: 'Lobster', cursive;
+}
+
+.error{
+    
+    color: #D40000;
+    
+}
+
+.verde{
+    
+    color: #007F7F;
+}
+a{
+    
+    color: #074021;
+}
+a,.azul{
+       color: #074021;
+}
+    
+ 
+
+.no-lista li{
+list-style-type: none;
+}
+
+.no-lista{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.se-gris {
+background-color: #eee; 
+}
+
+.padding-largo {
+padding: 5px 10px;
+}
+
+.inline-block{
+    
+    float:none;
+    display: inline-block;
+    margin-right: -4px;
+    
+}
+.vete-arriba{
+    vertical-align: top;
+}
+
+.mediano {
+font-size: 1.5em;
+}
+
+.pequeño{
+    font-size: 1.0em;
+    
+}
+.retraso1{
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay :1s;
+    animation-delay: 1s;
+}
+.retraso2{
+    -webkit-animation-delay: 5s;
+    -moz-animation-delay :5s;
+    animation-delay: 5s;
+}
